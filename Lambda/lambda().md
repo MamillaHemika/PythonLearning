@@ -1,4 +1,4 @@
-he lambda function in Python is a small, anonymous function defined using the lambda keyword. They are often used for short, throwaway functions that can be defined in a single line. Let’s explore the characteristics, syntax, and various scenarios where lambda functions are useful.
+The lambda function in Python is a small, anonymous function defined using the lambda keyword. They are often used for short, throwaway functions that can be defined in a single line. Let’s explore the characteristics, syntax, and various scenarios where lambda functions are useful.
 
 **What is a Lambda Function?**
 
